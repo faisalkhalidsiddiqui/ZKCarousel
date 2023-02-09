@@ -1,4 +1,4 @@
-# ZKCarousel
+# ZKCarousel With Swift Package Manager Support
 [![Swift 5.2](https://img.shields.io/badge/swift-5.2-orange.svg)](https://swift.org)
 [![Version](https://img.shields.io/cocoapods/v/ZKCarousel.svg?style=flat)](http://cocoapods.org/pods/ZKCarousel)
 [![Build Status](https://travis-ci.org/ZacharyKhan/ZKCarousel.svg?branch=master)](https://travis-ci.org/ZacharyKhan/ZKCarousel)
