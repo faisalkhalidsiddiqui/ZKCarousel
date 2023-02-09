@@ -6,7 +6,7 @@ let package = Package(
   name: "ZKCarousel",
   platforms: [.iOS("11.0"), .macOS("10.10"), .tvOS("11.0")],
   products: [.library(name: "ZKCarousel", targets: ["ZKCarousel"])],
-  targets: [.target(name: "ZKCarousel", path: "Sources")])
+  targets: [.target(name: "ZKCarousel", path: "ZKCarousel")])
 
 #if swift(>=5.6)
 // Add the Airbnb Swift formatting plugin if possible
